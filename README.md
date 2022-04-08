@@ -1,3 +1,5 @@
+![Grinxxoo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grinxxoo&layout=compact&hide_border=true&langs_count=10)
+
 ![info](https://github-readme-stats.vercel.app/api?username=grinxxoo&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 - 👋 Hi, I’m @grinxxoo
